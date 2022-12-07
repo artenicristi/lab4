@@ -1,0 +1,95 @@
+{
+  "goals": [
+    {
+      "cover": "https://www.muscleandfitness.com/wp-content/uploads/2019/09/Bodybuilder-In-Smokey-Room-Looking-Up-Holding-Dumbbells.jpg?quality=86&strip=all",
+      "title": "Body Building",
+      "sub_title": "Full body workout",
+      "calories_count": 120,
+      "duration_seconds": 3000
+    },
+    {
+      "cover": "https://cdn.muscleandstrength.com/sites/default/files/6-pack-guide-feature.jpg",
+      "title": "Six Pack Abs",
+      "sub_title": "6 Best abs exercises",
+      "calories_count": 456,
+      "duration_seconds": 3000
+    },
+    {
+      "cover": "https://cdn.muscleandstrength.com/sites/default/files/6-pack-guide-feature.jpg",
+      "title": "Six Pack Abs",
+      "sub_title": "6 Best abs exercises",
+      "calories_count": 456,
+      "duration_seconds": 32567
+    },
+    {
+      "cover": "https://cdn.muscleandstrength.com/sites/default/files/6-pack-guide-feature.jpg",
+      "title": "Six Pack Abs",
+      "sub_title": "6 Best abs exercises",
+      "calories_count": 456,
+      "duration_seconds": 32567
+    },
+    {
+      "cover": "https://cdn.muscleandstrength.com/sites/default/files/6-pack-guide-feature.jpg",
+      "title": "Six Pack Abs",
+      "sub_title": "6 Best abs exercises",
+      "calories_count": 456,
+      "duration_seconds": 32567
+    }
+  ],
+  "daily_exercises": [
+    {
+      "title": "Exercise 1",
+      "cover": "https://www.gannett-cdn.com/-mm-/1bf8593a22d25c61ada18adab149e20a3782c81b/c=68-0-873-453/local/-/media/2020/02/10/USATODAY/usatsports/MotleyFool-TMOT-c063c4d4-fitionic.jpg",
+      "calories_count": 456,
+      "duration_seconds": 231
+    },
+    {
+      "title": "Exercise 2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI7YUw29TcVHZQam9mEvuofdo6lb6WU2yQ&usqp=CAU",
+      "calories_count": 221,
+      "duration_seconds": 435
+    },
+    {
+      "title": "Exercise 2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI7YUw29TcVHZQam9mEvuofdo6lb6WU2yQ&usqp=CAU",
+      "calories_count": 221,
+      "duration_seconds": 435
+    },
+    {
+      "title": "Exercise 2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI7YUw29TcVHZQam9mEvuofdo6lb6WU2yQ&usqp=CAU",
+      "calories_count": 221,
+      "duration_seconds": 435
+    },
+    {
+      "title": "Exercise 2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI7YUw29TcVHZQam9mEvuofdo6lb6WU2yQ&usqp=CAU",
+      "calories_count": 221,
+      "duration_seconds": 435
+    },
+    {
+      "title": "Exercise 2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI7YUw29TcVHZQam9mEvuofdo6lb6WU2yQ&usqp=CAU",
+      "calories_count": 221,
+      "duration_seconds": 435
+    },
+    {
+      "title": "Exercise 2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI7YUw29TcVHZQam9mEvuofdo6lb6WU2yQ&usqp=CAU",
+      "calories_count": 221,
+      "duration_seconds": 435
+    },
+    {
+      "title": "Exercise 2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI7YUw29TcVHZQam9mEvuofdo6lb6WU2yQ&usqp=CAU",
+      "calories_count": 221,
+      "duration_seconds": 435
+    },
+    {
+      "title": "Exercise 2",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7KI7YUw29TcVHZQam9mEvuofdo6lb6WU2yQ&usqp=CAU",
+      "calories_count": 221,
+      "duration_seconds": 435
+    }
+  ]
+}
